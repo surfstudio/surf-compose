@@ -6,3 +6,6 @@
 
 # Visual Studio Code related
 .vscode/
+
+# MacOS related
+.DS_Store
