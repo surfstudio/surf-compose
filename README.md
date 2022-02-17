@@ -37,6 +37,8 @@ Interfaces that make it easier to work with navigator routing.
 
 ___
 
+## See also: out brand new [MVI implementation](https://github.com/surfstudio/surf-mvi-flow)
+
 ### License
 
 ```text
